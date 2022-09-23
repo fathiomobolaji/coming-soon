@@ -1,0 +1,28 @@
+*{
+    font:20px Helvetica, sans serif;
+}
+article{
+    margin-top: 100px;
+
+}
+div p ,p{
+   
+    font-size: 20px;
+    padding: 0px 30px;
+
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+body{
+    padding: 100px;
+}
+a{
+    color:rgb(0, 179, 80);
+}
+a:hover{
+    color: black;
+    text-decoration: line-through;
+}
